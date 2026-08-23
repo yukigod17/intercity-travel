@@ -1,8 +1,8 @@
 {
-  "versionCode": 10,
-  "versionName": "1.10",
-  "updateNote": "修复：\n- 首次进入app天气不再报获取失败（等配置加载完再取天气）\n- 打开app时间始终为当前时间（不再沿用上次）\n- 收藏时不再出现 undefined 提示\n- 按位置搜索：目的地/出发地距城际站过远时，明确提示建议打车自驾，不再显示怪异公交方案",
-  "apkUrl": "https://raw.githubusercontent.com/yukigod17/intercity-travel/main/apk/traa-app-v1.10.apk",
+  "versionCode": 11,
+  "versionName": "1.11",
+  "updateNote": "查询失败提示优化：官方数据维护中或该时段无车时，给出明确说明，不再误导为地址问题",
+  "apkUrl": "https://raw.githubusercontent.com/yukigod17/intercity-travel/main/apk/traa-app-v1.11.apk",
   "force": false,
   "reportUrl": "https://net.owopie.buzz/traa/report",
   "amapProxyUrl": "https://net.owopie.buzz/traa/amap"
