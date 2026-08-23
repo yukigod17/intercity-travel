@@ -1,8 +1,8 @@
 {
-  "versionCode": 20,
-  "versionName": "1.20",
-  "updateNote": "🚻 公厕功能升级：\n- 入口移到底部导航栏（公厕tab）\n- 修复导航无反应（浏览器打开方式修正）\n- 点击公厕查看详情：地图位置+地址+距离\n- 一键步行导航 / 打开高德地图",
-  "apkUrl": "https://raw.githubusercontent.com/yukigod17/intercity-travel/main/apk/traa-app-v1.20.apk",
+  "versionCode": 21,
+  "versionName": "1.21",
+  "updateNote": "🎯 公厕准确性修复：\n- 高德公厕分类接口在部分城市返回的是道路名（数据问题）\n- 改用关键词「公厕」搜索，结果均为真实公厕（带详细地址）",
+  "apkUrl": "https://raw.githubusercontent.com/yukigod17/intercity-travel/main/apk/traa-app-v1.21.apk",
   "force": false,
   "reportUrl": "https://net.owopie.buzz/traa/report",
   "amapProxyUrl": "https://net.owopie.buzz/traa/amap"
