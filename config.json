@@ -5,5 +5,6 @@
   "apkUrl": "https://raw.githubusercontent.com/yukigod17/intercity-travel/main/apk/traa-app-v1.12.apk",
   "force": false,
   "reportUrl": "https://net.owopie.buzz/traa/report",
-  "amapProxyUrl": "https://net.owopie.buzz/traa/amap"
+  "amapProxyUrl": "https://net.owopie.buzz/traa/amap",
+  "cllProxyUrl": "https://net.owopie.buzz/traa/cll"
 }
