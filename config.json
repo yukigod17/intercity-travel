@@ -1,8 +1,8 @@
 {
-  "versionCode": 15,
-  "versionName": "1.15",
-  "updateNote": "🚌 公交新增惠州：\n- 惠州实时公交（惠州交通服务网官方系统）\n- 现支持佛山/东莞/惠州三城实时公交",
-  "apkUrl": "https://raw.githubusercontent.com/yukigod17/intercity-travel/main/apk/traa-app-v1.15.apk",
+  "versionCode": 16,
+  "versionName": "1.16",
+  "updateNote": "🔧 惠州公交修复：\n- 修复惠州页面提示「请在微信中打开」的问题（模拟微信环境打开）\n- 放行惠州页面依赖的微信资源",
+  "apkUrl": "https://raw.githubusercontent.com/yukigod17/intercity-travel/main/apk/traa-app-v1.16.apk",
   "force": false,
   "reportUrl": "https://net.owopie.buzz/traa/report",
   "amapProxyUrl": "https://net.owopie.buzz/traa/amap"
