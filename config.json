@@ -1,8 +1,8 @@
 {
-  "versionCode": 16,
-  "versionName": "1.16",
-  "updateNote": "🔧 惠州公交修复：\n- 修复惠州页面提示「请在微信中打开」的问题（模拟微信环境打开）\n- 放行惠州页面依赖的微信资源",
-  "apkUrl": "https://raw.githubusercontent.com/yukigod17/intercity-travel/main/apk/traa-app-v1.16.apk",
+  "versionCode": 17,
+  "versionName": "1.17",
+  "updateNote": "🔧 惠州公交调整：\n- 惠州官方页面仅限微信内使用（微信JS定位限制）\n- 点击惠州改为提示+复制链接，到微信粘贴打开",
+  "apkUrl": "https://raw.githubusercontent.com/yukigod17/intercity-travel/main/apk/traa-app-v1.17.apk",
   "force": false,
   "reportUrl": "https://net.owopie.buzz/traa/report",
   "amapProxyUrl": "https://net.owopie.buzz/traa/amap"
