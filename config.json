@@ -1,8 +1,8 @@
 {
-  "versionCode": 11,
-  "versionName": "1.11",
-  "updateNote": "查询失败提示优化：官方数据维护中或该时段无车时，给出明确说明，不再误导为地址问题",
-  "apkUrl": "https://raw.githubusercontent.com/yukigod17/intercity-travel/main/apk/traa-app-v1.11.apk",
+  "versionCode": 12,
+  "versionName": "1.12",
+  "updateNote": "新增：🚌 公交查询（车来了实时公交，我的页进入，全国城市可切换）\n- 实时车辆位置/到站提醒\n- 页面内点城市名可切换全国城市\n- 返回键直接回到城际查询",
+  "apkUrl": "https://raw.githubusercontent.com/yukigod17/intercity-travel/main/apk/traa-app-v1.12.apk",
   "force": false,
   "reportUrl": "https://net.owopie.buzz/traa/report",
   "amapProxyUrl": "https://net.owopie.buzz/traa/amap"
