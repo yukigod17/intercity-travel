@@ -1,8 +1,8 @@
 {
-  "versionCode": 2,
-  "versionName": "1.2",
-  "updateNote": "",
-  "apkUrl": "",
+  "versionCode": 3,
+  "versionName": "1.3",
+  "updateNote": "新增：自动更新检测、匿名使用统计、夜间模式；修复发车提醒时间与门到门规划",
+  "apkUrl": "https://raw.githubusercontent.com/yukigod17/intercity-travel/main/apk/traa-app-v1.3.apk",
   "force": false,
   "reportUrl": "https://net.owopie.buzz/traa/report"
 }
