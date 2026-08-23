@@ -1,8 +1,8 @@
 {
-  "versionCode": 17,
-  "versionName": "1.17",
-  "updateNote": "🔧 惠州公交调整：\n- 惠州官方页面仅限微信内使用（微信JS定位限制）\n- 点击惠州改为提示+复制链接，到微信粘贴打开",
-  "apkUrl": "https://raw.githubusercontent.com/yukigod17/intercity-travel/main/apk/traa-app-v1.17.apk",
+  "versionCode": 18,
+  "versionName": "1.18",
+  "updateNote": "🔧 公交白屏修复：\n- 开启WebView定位（车来了线路详情需要定位）\n- 公交页改用Android浏览器模式打开（兼容性更好）",
+  "apkUrl": "https://raw.githubusercontent.com/yukigod17/intercity-travel/main/apk/traa-app-v1.18.apk",
   "force": false,
   "reportUrl": "https://net.owopie.buzz/traa/report",
   "amapProxyUrl": "https://net.owopie.buzz/traa/amap"
