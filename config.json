@@ -4,5 +4,6 @@
   "updateNote": "修复：换乘方案卡片直接显示每程车次号/换乘站/等待时间；展开详情按程显示完整经停站（方向正确）；夜间模式展开详情字体看不清；首次进入常查区空白",
   "apkUrl": "https://raw.githubusercontent.com/yukigod17/intercity-travel/main/apk/traa-app-v1.5.apk",
   "force": false,
-  "reportUrl": "https://net.owopie.buzz/traa/report"
+  "reportUrl": "https://net.owopie.buzz/traa/report",
+  "amapProxyUrl": "https://net.owopie.buzz/traa/amap"
 }
