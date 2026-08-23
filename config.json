@@ -1,8 +1,8 @@
 {
-  "versionCode": 5,
-  "versionName": "1.5",
-  "updateNote": "修复：换乘方案卡片直接显示每程车次号/换乘站/等待时间；展开详情按程显示完整经停站（方向正确）；夜间模式展开详情字体看不清；首次进入常查区空白",
-  "apkUrl": "https://raw.githubusercontent.com/yukigod17/intercity-travel/main/apk/traa-app-v1.5.apk",
+  "versionCode": 6,
+  "versionName": "1.6",
+  "updateNote": "新增：首页定位天气（可切换城市/查看4天预报详情）；修复：收藏路线点击即可查询、模式切换清空残留结果、只看直达后清空排序选中；高德API key移入服务器代理，APK不再包含key",
+  "apkUrl": "https://raw.githubusercontent.com/yukigod17/intercity-travel/main/apk/traa-app-v1.6.apk",
   "force": false,
   "reportUrl": "https://net.owopie.buzz/traa/report",
   "amapProxyUrl": "https://net.owopie.buzz/traa/amap"
