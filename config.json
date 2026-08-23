@@ -1,10 +1,9 @@
 {
-  "versionCode": 12,
-  "versionName": "1.12",
-  "updateNote": "新增：🚌 公交查询（车来了实时公交，我的页进入，全国城市可切换）\n- 实时车辆位置/到站提醒\n- 页面内点城市名可切换全国城市\n- 返回键直接回到城际查询",
-  "apkUrl": "https://raw.githubusercontent.com/yukigod17/intercity-travel/main/apk/traa-app-v1.12.apk",
+  "versionCode": 13,
+  "versionName": "1.13",
+  "updateNote": "🚌 公交查询改版：\n- 入口移到底部导航栏「公交」\n- 可选广东城市（广州/深圳/佛山/东莞/惠州/中山/清远/揭阳/珠海/韶关/湛江）\n- 打开官方实时公交（车来了官方渠道，合规）",
+  "apkUrl": "https://raw.githubusercontent.com/yukigod17/intercity-travel/main/apk/traa-app-v1.13.apk",
   "force": false,
   "reportUrl": "https://net.owopie.buzz/traa/report",
-  "amapProxyUrl": "https://net.owopie.buzz/traa/amap",
-  "cllProxyUrl": "https://net.owopie.buzz/traa/cll"
+  "amapProxyUrl": "https://net.owopie.buzz/traa/amap"
 }
