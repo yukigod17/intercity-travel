@@ -1,8 +1,8 @@
 {
-  "versionCode": 4,
-  "versionName": "1.4",
-  "updateNote": "新增：车次详情显示完整经停站并用颜色标注乘车区间；修复夜间模式残留白色区域；自动更新检测与匿名统计",
-  "apkUrl": "https://raw.githubusercontent.com/yukigod17/intercity-travel/main/apk/traa-app-v1.4.apk",
+  "versionCode": 5,
+  "versionName": "1.5",
+  "updateNote": "修复：换乘方案卡片直接显示每程车次号/换乘站/等待时间；展开详情按程显示完整经停站（方向正确）；夜间模式展开详情字体看不清；首次进入常查区空白",
+  "apkUrl": "https://raw.githubusercontent.com/yukigod17/intercity-travel/main/apk/traa-app-v1.5.apk",
   "force": false,
   "reportUrl": "https://net.owopie.buzz/traa/report"
 }
