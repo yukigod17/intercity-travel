@@ -1,8 +1,8 @@
 {
-  "versionCode": 6,
-  "versionName": "1.6",
-  "updateNote": "新增：首页定位天气（可切换城市/查看4天预报详情）；修复：收藏路线点击即可查询、模式切换清空残留结果、只看直达后清空排序选中；高德API key移入服务器代理，APK不再包含key",
-  "apkUrl": "https://raw.githubusercontent.com/yukigod17/intercity-travel/main/apk/traa-app-v1.6.apk",
+  "versionCode": 7,
+  "versionName": "1.7",
+  "updateNote": "新增：点击常用/收藏路线自动按当前时间查询；门到门接驳默认显示推荐方案1，可点击切换其他方案；修复高德路径规划接口超时",
+  "apkUrl": "https://raw.githubusercontent.com/yukigod17/intercity-travel/main/apk/traa-app-v1.7.apk",
   "force": false,
   "reportUrl": "https://net.owopie.buzz/traa/report",
   "amapProxyUrl": "https://net.owopie.buzz/traa/amap"
