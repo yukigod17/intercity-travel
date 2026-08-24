@@ -1,8 +1,8 @@
 {
-  "versionCode": 21,
-  "versionName": "1.21",
-  "updateNote": "🎯 公厕准确性修复：\n- 高德公厕分类接口在部分城市返回的是道路名（数据问题）\n- 改用关键词「公厕」搜索，结果均为真实公厕（带详细地址）",
-  "apkUrl": "https://raw.githubusercontent.com/yukigod17/intercity-travel/main/apk/traa-app-v1.21.apk",
+  "versionCode": 22,
+  "versionName": "1.22",
+  "updateNote": "📋 快照模式适配 + 筛选修复：\n- 官方接口返回最近时刻表快照（数据日期可能≠查询日），按位置查询不再误判没数据\n- 数据日期不是当天时，结果区明确提示「官方时刻表更新至 X月X日」\n- 「只看直达」与排序按钮互斥，不再同时选中",
+  "apkUrl": "https://raw.githubusercontent.com/yukigod17/intercity-travel/main/apk/traa-app-v1.22.apk",
   "force": false,
   "reportUrl": "https://net.owopie.buzz/traa/report",
   "amapProxyUrl": "https://net.owopie.buzz/traa/amap"
