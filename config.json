@@ -1,8 +1,8 @@
 {
-  "versionCode": 24,
-  "versionName": "1.24",
-  "updateNote": "🐛 门到门规划修复：\n- 修复按位置查询报「规划失败: arrT is not defined」（v1.22 改快照模式时漏改一处引用）\n- 功能同 v1.22/1.23：官方时刻表快照适配 + 筛选按钮互斥",
-  "apkUrl": "https://raw.githubusercontent.com/yukigod17/intercity-travel/main/apk/traa-app-v1.24.apk",
+  "versionCode": 25,
+  "versionName": "1.25",
+  "updateNote": "🗺️ 门到门大升级：\n- 按位置查询出方案列表，可切换对比（步行优先推荐）\n- 地址搜索弹候选列表（不会默默选错城市）\n- 收藏地址 + 常查地址 + 现在出发快捷\n- 日期限制近3天\n- 公厕距离标注直线距离，定位失败明确提示",
+  "apkUrl": "https://raw.githubusercontent.com/yukigod17/intercity-travel/main/apk/traa-app-v1.25.apk",
   "force": false,
   "reportUrl": "https://net.owopie.buzz/traa/report",
   "amapProxyUrl": "https://net.owopie.buzz/traa/amap"
