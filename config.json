@@ -1,8 +1,8 @@
 {
-  "versionCode": 22,
-  "versionName": "1.22",
-  "updateNote": "📋 快照模式适配 + 筛选修复：\n- 官方接口返回最近时刻表快照（数据日期可能≠查询日），按位置查询不再误判没数据\n- 数据日期不是当天时，结果区明确提示「官方时刻表更新至 X月X日」\n- 「只看直达」与排序按钮互斥，不再同时选中",
-  "apkUrl": "https://raw.githubusercontent.com/yukigod17/intercity-travel/main/apk/traa-app-v1.22.apk",
+  "versionCode": 23,
+  "versionName": "1.23",
+  "updateNote": "🔧 版本号显示修复：\n- 「我的」页面版本号与更新检查改用新版本号（1.23），不再误报更新\n- 功能同 v1.22：官方时刻表快照适配（按位置查询恢复可用）+ 筛选按钮互斥",
+  "apkUrl": "https://raw.githubusercontent.com/yukigod17/intercity-travel/main/apk/traa-app-v1.23.apk",
   "force": false,
   "reportUrl": "https://net.owopie.buzz/traa/report",
   "amapProxyUrl": "https://net.owopie.buzz/traa/amap"
