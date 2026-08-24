@@ -1,8 +1,8 @@
 {
-  "versionCode": 23,
-  "versionName": "1.23",
-  "updateNote": "🔧 版本号显示修复：\n- 「我的」页面版本号与更新检查改用新版本号（1.23），不再误报更新\n- 功能同 v1.22：官方时刻表快照适配（按位置查询恢复可用）+ 筛选按钮互斥",
-  "apkUrl": "https://raw.githubusercontent.com/yukigod17/intercity-travel/main/apk/traa-app-v1.23.apk",
+  "versionCode": 24,
+  "versionName": "1.24",
+  "updateNote": "🐛 门到门规划修复：\n- 修复按位置查询报「规划失败: arrT is not defined」（v1.22 改快照模式时漏改一处引用）\n- 功能同 v1.22/1.23：官方时刻表快照适配 + 筛选按钮互斥",
+  "apkUrl": "https://raw.githubusercontent.com/yukigod17/intercity-travel/main/apk/traa-app-v1.24.apk",
   "force": false,
   "reportUrl": "https://net.owopie.buzz/traa/report",
   "amapProxyUrl": "https://net.owopie.buzz/traa/amap"
