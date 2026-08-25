@@ -1,8 +1,8 @@
 {
-  "versionCode": 25,
-  "versionName": "1.25",
-  "updateNote": "🗺️ 门到门大升级：\n- 按位置查询出方案列表，可切换对比（步行优先推荐）\n- 地址搜索弹候选列表（不会默默选错城市）\n- 收藏地址 + 常查地址 + 现在出发快捷\n- 日期限制近3天\n- 公厕距离标注直线距离，定位失败明确提示",
-  "apkUrl": "https://raw.githubusercontent.com/yukigod17/intercity-travel/main/apk/traa-app-v1.25.apk",
+  "versionCode": 26,
+  "versionName": "1.26",
+  "updateNote": "v1.26 全面优化：\n- 收藏终点不再混入常查，常查与收藏彻底分开\n- 去掉常查前缀与现在出发图标，样式与按城际站查统一\n- 切换查询模式自动刷新为当前时间\n- 门到门删掉收藏路线按钮，只留收藏终点\n- 方案选择移到顶部：编号+总耗时，选中蓝色框框住，默认展示耗时最短方案\n- 定位改GPS优先精度更准，定位后弹附近地点候选手动选\n- 地址搜索POI+编码双重结果，东莞/惠州同名地点都列出自选\n- 公厕改为页面内嵌展示，直线距离标注加深\n- 日期时间改为上下滑动滚轮选择（替代系统原生控件）",
+  "apkUrl": "https://raw.githubusercontent.com/yukigod17/intercity-travel/main/apk/traa-app-v1.26.apk",
   "force": false,
   "reportUrl": "https://net.owopie.buzz/traa/report",
   "amapProxyUrl": "https://net.owopie.buzz/traa/amap"
