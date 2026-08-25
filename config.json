@@ -1,8 +1,8 @@
 {
-  "versionCode": 26,
-  "versionName": "1.26",
-  "updateNote": "v1.26 全面优化：\n- 收藏终点不再混入常查，常查与收藏彻底分开\n- 去掉常查前缀与现在出发图标，样式与按城际站查统一\n- 切换查询模式自动刷新为当前时间\n- 门到门删掉收藏路线按钮，只留收藏终点\n- 方案选择移到顶部：编号+总耗时，选中蓝色框框住，默认展示耗时最短方案\n- 定位改GPS优先精度更准，定位后弹附近地点候选手动选\n- 地址搜索POI+编码双重结果，东莞/惠州同名地点都列出自选\n- 公厕改为页面内嵌展示，直线距离标注加深\n- 日期时间改为上下滑动滚轮选择（替代系统原生控件）",
-  "apkUrl": "https://raw.githubusercontent.com/yukigod17/intercity-travel/main/apk/traa-app-v1.26.apk",
+  "versionCode": 27,
+  "versionName": "1.27",
+  "updateNote": "v1.27 更新：\n- 日期和时间分开选择：点「日期」只选日期，点「时间」只选时间，不再混在一个面板\n- 选择面板标题跟随变化，选完只写入对应框，互不干扰",
+  "apkUrl": "https://raw.githubusercontent.com/yukigod17/intercity-travel/main/apk/traa-app-v1.27.apk",
   "force": false,
   "reportUrl": "https://net.owopie.buzz/traa/report",
   "amapProxyUrl": "https://net.owopie.buzz/traa/amap"
