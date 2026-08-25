@@ -1,8 +1,8 @@
 {
-  "versionCode": 27,
-  "versionName": "1.27",
-  "updateNote": "v1.27 更新：\n- 日期和时间分开选择：点「日期」只选日期，点「时间」只选时间，不再混在一个面板\n- 选择面板标题跟随变化，选完只写入对应框，互不干扰",
-  "apkUrl": "https://raw.githubusercontent.com/yukigod17/intercity-travel/main/apk/traa-app-v1.27.apk",
+  "versionCode": 28,
+  "versionName": "1.28",
+  "updateNote": "v1.28 修复：\n- 修复日期/时间输入框在手机上穿出屏幕、页面可左右滑动的问题\n- 日期时间分开选择继续保留：点「日期」只选日期，点「时间」只选时间",
+  "apkUrl": "https://raw.githubusercontent.com/yukigod17/intercity-travel/main/apk/traa-app-v1.28.apk",
   "force": false,
   "reportUrl": "https://net.owopie.buzz/traa/report",
   "amapProxyUrl": "https://net.owopie.buzz/traa/amap"
