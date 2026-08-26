@@ -1,8 +1,8 @@
 {
-  "versionCode": 28,
-  "versionName": "1.28",
-  "updateNote": "v1.28 修复：\n- 修复日期/时间输入框在手机上穿出屏幕、页面可左右滑动的问题\n- 日期时间分开选择继续保留：点「日期」只选日期，点「时间」只选时间",
-  "apkUrl": "https://raw.githubusercontent.com/yukigod17/intercity-travel/main/apk/traa-app-v1.28.apk",
+  "versionCode": 29,
+  "versionName": "1.29",
+  "updateNote": "v1.29 更新：\n- 修复定位偏移（坐标转换，附近地点/公厕不再偏到几百米外）\n- 修复门到门总耗时显示 1 分钟的问题\n- 门到门常用区加「常查」标题，收藏地址移到收藏页管理\n- 城际/门到门查询结果互不覆盖\n- 换乘方案完整展示：每程车次 + 上下车站台 + 换乘等待时间",
+  "apkUrl": "https://raw.githubusercontent.com/yukigod17/intercity-travel/main/apk/traa-app-v1.29.apk",
   "force": false,
   "reportUrl": "https://net.owopie.buzz/traa/report",
   "amapProxyUrl": "https://net.owopie.buzz/traa/amap"
