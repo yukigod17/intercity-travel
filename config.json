@@ -1,13 +1,13 @@
 {
-  "versionCode": 31,
-  "versionName": "1.31",
-  "updateNote": "v1.31 更新：\n- 更新下载加速：优先从服务器镜像下载（国内快），服务器不可用时自动回退 GitHub",
+  "versionCode": 32,
+  "versionName": "1.32",
+  "updateNote": "v1.32 更新：\n- 更新下载优先走服务器镜像（国内更快），服务器不可用时自动回退 GitHub",
   "noticeEnabled": true,
   "noticeTitle": "系统公告",
   "noticeContent": "欢迎使用城际出行 App 🚄\n\n- 查车次：选择出发站与到达站，实时查询城际车次、票价、编组\n- 门到门：定位当前位置，输入终点地址，自动规划接驳+城际全程方案\n- 换乘方案已完整展示每程车次、上下车站台与等待时间\n- 查公厕：底部「公厕」页自动定位附近公厕，显示名称、距离，点击可看地图位置并步行导航\n\n数据来源：广东城际官方数据 + 高德地图",
   "noticeOnce": true,
-  "apkUrl": "https://raw.githubusercontent.com/yukigod17/intercity-travel/main/apk/traa-app-v1.31.apk",
-  "apkMirrorUrl": "https://net.owopie.buzz/traa/apk/traa-app-v1.31.apk",
+  "apkUrl": "https://raw.githubusercontent.com/yukigod17/intercity-travel/main/apk/traa-app-v1.32.apk",
+  "apkMirrorUrl": "https://net.owopie.buzz/traa/apk/traa-app-v1.32.apk",
   "force": false,
   "reportUrl": "https://net.owopie.buzz/traa/report",
   "amapProxyUrl": "https://net.owopie.buzz/traa/amap"
