@@ -1,8 +1,12 @@
 {
-  "versionCode": 29,
-  "versionName": "1.29",
-  "updateNote": "v1.29 更新：\n- 修复定位偏移（坐标转换，附近地点/公厕不再偏到几百米外）\n- 修复门到门总耗时显示 1 分钟的问题\n- 门到门常用区加「常查」标题，收藏地址移到收藏页管理\n- 城际/门到门查询结果互不覆盖\n- 换乘方案完整展示：每程车次 + 上下车站台 + 换乘等待时间",
-  "apkUrl": "https://raw.githubusercontent.com/yukigod17/intercity-travel/main/apk/traa-app-v1.29.apk",
+  "versionCode": 30,
+  "versionName": "1.30",
+  "updateNote": "v1.30 更新：\n- 新增公告功能：可在 GitHub config.json 编辑公告内容与开关，打开 App 自动弹出",
+  "noticeEnabled": true,
+  "noticeTitle": "系统公告",
+  "noticeContent": "欢迎使用城际出行 App 🚄\n\n- 查车次：选择出发站与到达站，实时查询城际车次、票价、编组\n- 门到门：定位当前位置，输入终点地址，自动规划接驳+城际全程方案\n- 换乘方案已完整展示每程车次、上下车站台与等待时间\n\n数据来源：广东城际官方数据 + 高德地图",
+  "noticeOnce": true,
+  "apkUrl": "https://raw.githubusercontent.com/yukigod17/intercity-travel/main/apk/traa-app-v1.30.apk",
   "force": false,
   "reportUrl": "https://net.owopie.buzz/traa/report",
   "amapProxyUrl": "https://net.owopie.buzz/traa/amap"
